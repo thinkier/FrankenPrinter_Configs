@@ -9,6 +9,7 @@
 
     "overrides": {
         "extruder_nr": { "default_value": 0 },
+		"machine_heat_zone_length": { "default_value": 4 },
         "machine_nozzle_size": { "default_value": 0.4 },
         "material_diameter": { "default_value": 1.75 }
     }
