@@ -121,6 +121,7 @@
         "machine_height": {"default_value": 260},
         "machine_depth": {"default_value": 235},
         "machine_heated_bed": {"default_value": true},
+		"machine_use_extruder_offset_to_offset_coords": {"default_value": true},
         "material_diameter": { "default_value": 1.75 },
 		"machine_head_with_fans_polygon": {"value": [[-38, 80], [-38, -10], [38, 80], [38, -10]]},
 		"gantry_height": {"value": 30},
